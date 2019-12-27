@@ -1,2 +1,3 @@
-# mern_learning
-Learning about MERN stack
+# MERN Stack Learning Project
+
+Learning about MERN stack, from LinkedIn
